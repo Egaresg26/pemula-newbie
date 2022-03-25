@@ -1,2 +1,2 @@
 print('halo dunia !')
-print('Belajar AI mastery!')
+print('Belajar AI mastery orbit!')
